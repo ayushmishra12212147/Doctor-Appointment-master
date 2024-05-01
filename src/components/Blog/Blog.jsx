@@ -78,7 +78,7 @@ if (isError) return <div>Something went wrong!</div>;
         <>
         
             <Header />
-            <SubHeader title='Blog' subtitle='Lorem ipsum dolor sit amet.' />
+            <SubHeader title='Blog' subtitle='You can see all written blogs here.' />
 
             <div className="container-fluid" style={{ marginTop: 150, marginBottom: 100 }}>
                 <div className="row">

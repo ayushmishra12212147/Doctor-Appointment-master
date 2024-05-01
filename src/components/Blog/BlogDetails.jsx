@@ -56,7 +56,7 @@ const BlogDetails = () => {
     return (
         <>
             <Header />
-            <SubHeader title='Blog Details' subtitle='Lorem ipsum dolor sit amet.' />
+            <SubHeader title='Blog Details' subtitle='You can see all blogs here' />
             <div className="container-fluid" style={{ marginTop: 150 }}>
                 <div className="row mx-2">
                     <div className="col-md-9 col-sm-12">
